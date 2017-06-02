@@ -2,13 +2,13 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap ="http://phonegap.com/ns/1.0"
-  id ="com.phonegap.example2"
+  id ="com.phonegap.example10"
   version ="1.0.0">
   
-  <name> app6 Batalla de Puebla </name>
+  <name> app10 conciencia ecologica </name>
   
   <description>
-   aplicacion que muestra informacion sobre la batalla de Puebla
+   aplicacion sobre el medio ambiente
   </description>
   
   <author href="https://build.phonegap.com" email="vaquero.aguilar.celic.cbtis16@gmail.com">
